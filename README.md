@@ -32,14 +32,14 @@ Strategic Value:
 The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
 
 Project Highlights
-Metric      Value
-Total Sales 10M
-Average Rating 3.02
-Total Quantity Sold 4924
-Top product category Grocery
+Metric      Value <br />
+Total Sales 10M <br />
+Average Rating 3.02 <br />
+Total Quantity Sold 4924 <br />
+Top product category Grocery <br />
 Most used payment method Debit Card
 
 # Repository Structure
-• Data: 
-• Dashboard: https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/Flipkart%20Dashboard.pbix
+• Data: https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/flipkart_sales_data.csv  <br />
+• Dashboard: https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/Flipkart%20Dashboard.pbix <br />
 • Images:<img width="605" alt="Dashboard" src="https://github.com/user-attachments/assets/faba61c2-8a85-4de5-a249-e0e709cde54f" />
