@@ -40,6 +40,7 @@ Top product category Grocery <br />
 Most used payment method Debit Card
 
 # Repository Structure
-• Data: https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/flipkart_sales_data.csv  <br />
-• Dashboard: https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/Flipkart%20Dashboard.pbix <br />
-• Images:<img width="605" alt="Dashboard" src="https://github.com/user-attachments/assets/faba61c2-8a85-4de5-a249-e0e709cde54f" />
+• Data:    https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/flipkart_sales_data.csv  <br />
+• Dashboard:  https://github.com/Krg1994/Flipkart-Dashboard-Project/blob/main/Flipkart%20Dashboard.pbix <br />
+• Images:<br />
+<img width="605" alt="Dashboard" src="https://github.com/user-attachments/assets/faba61c2-8a85-4de5-a249-e0e709cde54f" />
